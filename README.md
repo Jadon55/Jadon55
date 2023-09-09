@@ -6,12 +6,12 @@
   </h1>
 </div>
 
-## :man_technologist: About Me :
+### :man_technologist: About Me :
 I am a Computer Science Student in San Diego, with a particular intrest in Data Science and Analytics.
 <br>
 <br>
 
-## :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <!-- Python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
