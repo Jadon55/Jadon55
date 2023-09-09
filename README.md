@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -6,6 +9,7 @@
 
 ## :man_technologist: About Me :
 I am a Computer Science Student in San Diego, with a particular intrest in Data Science and Analytics.
+<br>
 <br>
 
 ## :hammer_and_wrench: Languages and Tools :
