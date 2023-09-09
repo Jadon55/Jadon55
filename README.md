@@ -8,6 +8,8 @@
 
 ### :man_technologist: About Me :
 I am a Computer Science Student in San Diego, with a particular intrest in Data Science and Analytics.
+- Currently Enrolled in edX Data Science and Analytics bootcamp
+  - Previously Enrolled at Palomar College
 <br>
 <br>
 
