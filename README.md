@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/SHjOSDkKZ18qOHA5B5" width="100"/>
+  <iframe src="https://giphy.com/embed/SHjOSDkKZ18qOHA5B5" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-SHjOSDkKZ18qOHA5B5">via GIPHY</a></p>
   <h1>
     Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
