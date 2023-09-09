@@ -32,6 +32,9 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Ardunio" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
 
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jadon55&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Jadon55/Jadon55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
