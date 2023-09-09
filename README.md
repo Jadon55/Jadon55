@@ -22,6 +22,12 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <!-- C++ -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <!-- Java -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <!-- Git -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <!-- Ubuntu -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <!--  -->
   <img src="" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <!--  -->
