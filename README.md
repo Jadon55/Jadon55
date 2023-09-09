@@ -21,7 +21,7 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
   <!-- PostgreSQL -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <!-- C++ -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <!--  -->
   <img src="" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <!--  -->
