@@ -38,6 +38,7 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
   <!-- Arduino -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Ardunio" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 ### :scroll: My Favorite Projects
 [OSC Tap Tempo](https://github.com/Jadon55/OSC-Tap-Site): A dockerized website capable of sending OSC network commands to the beat of a user set tempo
@@ -46,6 +47,7 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
 <br>
 [New Zeland Car Crashes](https://github.com/Jadon55/Project-3): JavaScript visualizations of New Zealand car crash data from 2018-2022, powered by a Flask API
 <br>  Features: JavaScript, PostgreSQL, Python
+<br>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jadon55&theme=dark&background=000000)](https://git.io/streak-stats)
