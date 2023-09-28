@@ -40,7 +40,7 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
 </div>
 
 ### :scroll: My Favorite Projects
-[OSC Tap Tempo](https://github.com/Jadon55/OSC-Tap-Site)
+[OSC Tap Tempo](https://github.com/Jadon55/OSC-Tap-Site)<br>
 [New Zeland Car Crashes](https://github.com/Jadon55/Project-3)
 
 ### :fire: My Stats :
