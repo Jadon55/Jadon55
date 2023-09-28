@@ -43,11 +43,10 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
 ### :scroll: My Favorite Projects
 [OSC Tap Tempo](https://github.com/Jadon55/OSC-Tap-Site): A dockerized website capable of sending OSC network commands to the beat of a user set tempo
 <br>  Features: Python, Docker, Network
-<br>
-<br>
+<br><br>
 [New Zeland Car Crashes](https://github.com/Jadon55/Project-3): JavaScript visualizations of New Zealand car crash data from 2018-2022, powered by a Flask API
 <br>  Features: JavaScript, PostgreSQL, Python
-<br>
+<br><br>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jadon55&theme=dark&background=000000)](https://git.io/streak-stats)
