@@ -41,7 +41,7 @@ I am a Computer Science Student in San Diego, with a particular intrest in Data 
 
 ### :scroll: My Favorite Projects
 OSC Tap Tempo
-Project 3
+Project 3(https://github.com/Jadon55/Project-3)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jadon55&theme=dark&background=000000)](https://git.io/streak-stats)
